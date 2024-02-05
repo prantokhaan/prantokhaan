@@ -5,7 +5,7 @@
 Hello, This is Pranto.  I am a MERN Stack Developer. 
 
 
-Skills:  REACT / JS / HTML / CSS / NODE JS / MONGODB / EXPRESS JS 
+Skills:  C / C++ / JAVA / REACT / JS / HTML / CSS / NODE JS / MONGODB / EXPRESS JS 
 
 - 🌱 I’m currently learning Node JS 
 - 👯 I’m looking to collaborate on React JS Projects 
