@@ -22,9 +22,17 @@ Hello, I am **Pranto**, a passionate **MERN Stack Developer** with a strong back
 ---
 
 ### 📫 Connect with Me  
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/prantokhaan)  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/prantokhaan/)  
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/praan.too)     
+
+<a href="https://github.com/prantokhaan" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="25" height="25"/>
+</a>
+<a href="https://www.linkedin.com/in/prantokhaan/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="25" height="25"/>
+</a>
+<a href="https://www.facebook.com/praan.too" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width="25" height="25"/>
+</a>
+  
 
 ---
 
