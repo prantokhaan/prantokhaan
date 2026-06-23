@@ -26,7 +26,7 @@ Hello, I am **Pranto**, a passionate **Full Stack Developer** with a strong back
 <a href="https://github.com/prantokhaan" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="25" height="25"/>
 </a>
-<a href="https://www.linkedin.com/in/prantokhaan/" target="_blank">
+<a href="https://www.linkedin.com/in/ismtauul/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="25" height="25"/>
 </a>
 <a href="https://www.facebook.com/praan.too" target="_blank">
