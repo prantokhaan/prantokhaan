@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Ismatul Islam Pranto  
-#### MERN Stack Developer  
+#### Full Stack Developer  
 
-Hello, I am **Pranto**, a passionate **MERN Stack Developer** with a strong background in competitive programming and web application development. I enjoy solving real-world problems and building scalable solutions.  
+Hello, I am **Pranto**, a passionate **Full Stack Developer** with a strong background in competitive programming and web application development. I enjoy solving real-world problems and building scalable solutions.  
 
 ---
 
